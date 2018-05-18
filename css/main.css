@@ -1,0 +1,9 @@
+.how-it-works {
+	list-style-type: none;
+	margin-left: 0;
+}
+
+.how-it-works li {
+	font-weight: 500;
+	font-size: 20px;
+}
